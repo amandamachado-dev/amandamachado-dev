@@ -9,5 +9,5 @@ Estudando atualmente Front-end com as tecnologias:
   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
   Sou encantada pelas possibilidades que a tecnologia oferece.  
-  Esse é o espaço onde onde a imaginação e a criatividade se transformam em código.
+  Esse é o espaço onde a imaginação e a criatividade se transformam em código.
   
