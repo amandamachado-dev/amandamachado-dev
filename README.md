@@ -1,13 +1,40 @@
 Olá, devs :wink:
-<br>
-Sou Amanda Machado, estou iniciando na área de programação.
-Estudando atualmente Front-end com as tecnologias:
-<br>
-<br>
-  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  
-  Sou encantada pelas possibilidades que a tecnologia oferece.  
-  Esse é o espaço onde a imaginação e a criatividade se transformam em código.
-  
+<header>
+        <h1>Sou Amanda Machado!</h1>
+    </header>
+    <section>
+        <p> 👋</p>
+        <p>Uma desenvolvedora apaixonada por tecnologias web e estou sempre em busca de oportunidades para aprender, colaborar e criar projetos incríveis. Tenho conhecimento sólido em várias tecnologias, incluindo:</p>
+        <ul>
+            <li>
+                <strong>HTML</strong> 
+            </li>
+            <li>
+                <strong>CSS</strong> 
+            </li>
+            <li>
+                <strong>JavaScript</strong> 
+            </li>
+            <li>
+                <strong>React</strong> 
+            </li>
+            <li>
+                <strong>Node.js</strong> 
+            </li>
+            <li>
+                <strong>Bootstrap</strong> 
+            </li>
+        </ul>
+        <p>Adoro desafios e estou sempre disposta a enfrentar novos problemas e aprender com eles. Este é o lugar onde compartilho meus projetos. </p>
+    </section>
+    <section>
+        <p>Se você quiser entrar em contato comigo, sinta-se à vontade para me seguir no GitHub ou me encontrar no  <a href="https://www.linkedin.com/in/amandamachado-dev">LinkedIn</a>. Estou sempre aberta a colaborações e novas amizades na comunidade de desenvolvedores.</p>
+        <p>Vamos construir a web juntos! 😄🚀</p>
+    </section>
+
+
+
+
+
+
+
